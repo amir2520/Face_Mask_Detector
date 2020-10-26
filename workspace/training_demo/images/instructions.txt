@@ -1,0 +1,1 @@
+two files of "train" and "test" should be put here, with images inside
