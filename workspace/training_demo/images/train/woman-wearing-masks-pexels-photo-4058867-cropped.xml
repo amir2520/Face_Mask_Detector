@@ -1,0 +1,26 @@
+<annotation>
+	<folder>www.google.at</folder>
+	<filename>woman-wearing-masks-pexels-photo-4058867-cropped.jpg</filename>
+	<path>C:\Users\amir\Downloads\www.google.at\woman-wearing-masks-pexels-photo-4058867-cropped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>16</ymin>
+			<xmax>550</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>www.google.at</folder>
+	<filename>42afcadcb125f6521ec5bb20421d5517-1000x1000x1.jpg</filename>
+	<path>C:\Users\amir\Downloads\www.google.at\42afcadcb125f6521ec5bb20421d5517-1000x1000x1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>138</ymin>
+			<xmax>700</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

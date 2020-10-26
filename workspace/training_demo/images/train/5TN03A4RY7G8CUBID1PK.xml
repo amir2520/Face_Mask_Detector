@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5TN03A4RY7G8CUBID1PK.jpg</filename>
+	<path>C:\Users\amir\Desktop\Object-Detection\images\train\5TN03A4RY7G8CUBID1PK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>28</ymin>
+			<xmax>476</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

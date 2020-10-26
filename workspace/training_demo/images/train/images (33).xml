@@ -1,0 +1,38 @@
+<annotation>
+	<folder>www.google.at</folder>
+	<filename>images (33).jpeg</filename>
+	<path>C:\Users\amir\Downloads\www.google.at\images (33).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>7</ymin>
+			<xmax>108</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>5</ymin>
+			<xmax>229</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>
